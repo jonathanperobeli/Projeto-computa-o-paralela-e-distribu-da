@@ -13,5 +13,5 @@ Repositório destinado ao desenvolvimento do projeto prático da disciplina de S
 1. Certifique-se de ter o Python 3.11+ instalado.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/projeto-ecommerce-sd.git](https://github.com/seu-usuario/projeto-ecommerce-sd.git)
+   git clone [https://github.com/jonathanperobeli/Projeto-computa-o-paralela-e-distribu-da]([https://github.com/seu-usuario/projeto-ecommerce-sd.git](https://github.com/jonathanperobeli/Projeto-computa-o-paralela-e-distribu-da))
    cd projeto_ecommerce_sd
